@@ -533,6 +533,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cefc678744abc824793b92685f7b32da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RouletteController
+  minSpinDuration: 5
+  maxSpinDuration: 8
+  initialSpeed: 1000
+  friction: 0.985
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
